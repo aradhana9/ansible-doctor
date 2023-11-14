@@ -5,6 +5,7 @@ demo_role_unset:
 
 demo_role_empty: ""
 demo_role_single: "b"
+demo_another_role: "c"
 
 # @var demo_role_empty_dict:description: >
 # ... or valid json can be used. In this case, the json will be automatically prefixed with the annotation key
